@@ -1,9 +1,9 @@
 {
-  "homepage": "http://hunnurjirao.github.io/index",
+  "homepage": "http://hunnurjirao.github.io/index/",
   "name": "index",
   "version": "0.1.0",
   "private": true,
-  "proxy":"https://127.0.0.1:5000",
+  "proxy": "https://127.0.0.1:5000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
